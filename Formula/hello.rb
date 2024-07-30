@@ -2,7 +2,7 @@ class Hello < Formula
     desc "A simple 'hello world' program"
     homepage "https://github.com/kavaka123/hello-cli"
     url "https://github.com/kavaka123/hello-cli/archive/refs/tags/v1.0.0.tar.gz"
-    sha256 "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    sha256 "fba8484ee6879a3329385f0a5f1965602beb36a064d5c87567b79a9c57d948bf"
     license "MIT"
   
     def install
